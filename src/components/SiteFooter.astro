@@ -1,0 +1,27 @@
+---
+import { themeConfig } from '~/.config'
+
+const year = new Date().getFullYear()
+
+const { website, author, footer } = themeConfig.site
+
+function parseFooter(str: string) {
+  str = str.replace(/%author/g, author)
+  str = str.replace(/%website/g, website)
+  str = str.replace(/%year/g, year.toString())
+  return str
+}
+---
+
+{footer.length && footer.map((str) => <p set:html={parseFooter(str)} />)}
+
+<img src="https://raw.githubusercontent.com/dablockdao/polkadot-ecosystem/refs/heads/main/dot-atlas/src/assets/polkadot-treasury.png" 
+alt="Polkadot Ecosystem Banner" 
+style="width: 45%; display: block; margin-top: 10px;"
+class="footerimg">
+
+<style>
+  p {
+    --at-apply: 'font-bold text-3';
+  }
+</style>
