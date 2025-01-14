@@ -8,3 +8,8 @@ DablockDAO is a leading guild specializing in high-quality content marketing str
 This repository contains all the source code, content, and configuration files for the dablock.com website.  
 
 The site is built using the [Astro Theme Typography](https://github.com/astrodotbuild/astro-theme-typography), ensuring a visually stunning, fast, and user-friendly experience for visitors.  
+
+
+<div style="background-color: lightblue; padding: 10px; border-radius: 5px;">
+<span style="color: red;">[dablock](https://dablock.com)</span>
+</div>
