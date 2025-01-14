@@ -146,3 +146,10 @@ img {
   opacity: 1;
   transform: scale(1.01);
 }
+
+
+main section .aimg:hover {
+  background-color: transparent !important;
+  color: inherit !important; 
+  text-decoration: none !important; 
+}
