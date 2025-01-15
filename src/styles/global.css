@@ -37,11 +37,16 @@ header h1 a {
   font-size: 35px !important;
   line-height: 1.5em !important;
 }
-h2, h3, h4 {
-  font-size: 27px !important;
+h2 {
+  font-size: 25px !important;
   font-family: unbounded !important;
   line-height: 1.5em !important;
+}
 
+h3, h4 {
+  font-size: 23px !important;
+  font-family: unbounded !important;
+  line-height: 1.5em !important;
 }
 
 nav ul li a {

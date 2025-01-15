@@ -1,9 +1,9 @@
 ---
-title: Marketing 420
-pubDate: 1921-01-10
-categories: ['Articles']
+title: Marketing 420 For Decentralized Networks
+pubDate: 2024-01-10
+categories: ['Thinktank']
 description: ''
-slug: hometown
+slug: marketing420
 ---
 
 > *"Good documentation as the best marketing"*
@@ -12,7 +12,7 @@ I have recently been learning new stuff to migrate the dablock.com portal to a n
 
 While browsing the documentation of new frameworks, I came across this note that I simply loved and inspired :evergreen_tree: me to start this topic.
 
-![Documentation is a source of truth|690x151](upload://tVkWv5PkzEjfFC9o3x5ZMmhGsfF.png)
+![Documentation is a source of truth|690x151](https://europe1.discourse-cdn.com/flex005/uploads/polkadot2/original/2X/d/d1ba4d8eba28b95180ec386ec952a6315fc18fbb.png)
 
 Today we're going to focus on my experience and povs around a few interested topics related to digital *"marketing"*, a word that unfortunately has gained quite a bit of popularity, not in a good way, and has been overused alongside others overexploited and trending, but not new, concepts such as *"community"*, *"experts"*, *"kols"*, etc. etc.
 
@@ -29,7 +29,7 @@ This topic is being written from the point of view of an individual and indie cr
     -    Identifying Metrics Manipulation
     -    Understanding the Real KPIs
 
-![Polkadot Make it Simple|690x119](upload://8qBg2tl8AJPKnaaamLd12fvI1nl.jpeg)
+![Polkadot Make it Simple|690x119](https://europe1.discourse-cdn.com/flex005/uploads/polkadot2/original/2X/3/3b132d7b426b50594578160aef9974a527b3725b.jpeg)
 
 ## Make it Simple: Culture & Hardcore Niches
 
