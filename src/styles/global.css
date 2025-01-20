@@ -132,6 +132,63 @@ img {
   }
 
 
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: left;
+    background: linear-gradient(to right, #ffffff, #f7f7f7);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  
+  thead tr {
+    background-color: #FF2670;
+    color: #ffffff;
+    font-size: 16px;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+  }
+  
+  th, td {
+    padding: 16px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  tbody tr:nth-child(odd) {
+    background-color: #f4f8ff;
+  }
+  
+  tbody tr:nth-child(even) {
+    background-color: #eaf2ff;
+  }
+  
+  tbody tr:hover {
+    background-color: #DCE2E9;
+    cursor: pointer;
+    transform: scale(1.01);
+    transition: all 0.2s ease-in-out;
+  }
+  
+  td {
+    color: #333333;
+    font-size: 14px;
+  }
+  
+  th {
+    font-weight: bold;
+  }
+  
+  table caption {
+    text-align: center;
+    padding: 12px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #555555;
+    text-transform: uppercase;
+  }
+  
 
 @media (max-width: 768px) {
   .coolimg { width: 100% !important; }
