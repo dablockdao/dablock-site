@@ -1,7 +1,7 @@
 ---
 title:  Content Initiatives Framework
 pubDate: 2023-10-02
-categories: ["Thinktank"]
+categories: ["thinktank"]
 description: ''
 slug: cci
 ---
@@ -27,7 +27,7 @@ CCI-A initiatives encompass general tasks typically associated with ambassador p
 - **Bounty in Spanish (Kusama)**  
 - **Portuguese Content Guild**  
 
----
+---r
 
 ### 2. Focused on Creators and Original Content (CCI-B)
 **Overview:**  

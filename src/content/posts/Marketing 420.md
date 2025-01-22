@@ -1,7 +1,7 @@
 ---
 title: Marketing 420 For Decentralized Networks
 pubDate: 2024-01-10
-categories: ['Thinktank']
+categories: ['thinktank']
 description: ''
 slug: marketing420
 ---
