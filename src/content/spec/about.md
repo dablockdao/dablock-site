@@ -42,6 +42,14 @@ Contributors are the heart of DaBlockDAO. Whether you're a writer, designer, dev
 
 Join us in making Web3 and Polkadot more accessible. Explore, contribute, and grow with DaBlockDAO!
 
+-----------
+
+#### **DablockDAO addresses**
+- Polkadot: ***TBA***
+- Kusama: ***TBA***
+
+#### **Members addresses (Polkadot)**
+- LV: ***[15akZwzufEzFzfh18y4Q81Ci8TXyvH6hyUkRrxJED2MjEYhe](https://polkadot.subscan.io/account/15akZwzufEzFzfh18y4Q81Ci8TXyvH6hyUkRrxJED2MjEYhe)***
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣴⣾⣿⣿⣷⣦⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
