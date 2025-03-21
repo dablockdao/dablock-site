@@ -1,5 +1,5 @@
 ---
-title:  Navigating Polkadot Content Niches
+title:  Comprehensive Content Review Framework
 pubDate: 2025-03-20
 categories: ["thinktank"]
 description: ''
