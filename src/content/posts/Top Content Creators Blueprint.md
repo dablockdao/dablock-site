@@ -3,7 +3,7 @@ title: Blueprint to Becoming a Top 1% Content Creator
 pubDate: 2025-08-14
 categories: ['thinktank']
 description: ''
-slug: marketing420
+slug: blueprint-content-creator-top
 ---
 
 Today I reviewed a friend’s video.
