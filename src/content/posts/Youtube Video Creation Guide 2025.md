@@ -1,6 +1,6 @@
 ---
 title: YouTube Video Creation Guide 2025
-pubDate: 2025-08-14
+pubDate: 2025-08-05
 categories: ['thinktank']
 description: ''
 slug: youtube-guide-2025

@@ -1,6 +1,6 @@
 ---
 title: Blueprint to Becoming a Top 1% Content Creator
-pubDate: 2024-01-10
+pubDate: 2025-08-14
 categories: ['thinktank']
 description: ''
 slug: marketing420
@@ -12,8 +12,7 @@ He wanted to level up his content game and monetize it.
 If you apply even half of what’s in this guide, you’ll already be ahead of most creators.
 Here’s the **exact blueprint** I shared with him to get more clicks, views, and watch time.
 
----
-
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">Today I reviewed a friend’s video 🎥 <br>He wants to improve his content game and monetize it.<br><br>If you apply even half of what I share in this beginners post, you will already be a top 1% content creator.<br><br>Here is the exact blueprint I shared with him to get more clicks, views and… <a href="https://t.co/23CPKcYUJm">pic.twitter.com/23CPKcYUJm</a></p>&mdash; LV (@LVweb3) <a href="https://twitter.com/LVweb3/status/1955813679070634014?ref_src=twsrc%5Etfw">August 14, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 ## 1. Packaging: Thumbnail & Title 🎯
 
 * Keep thumbnails **clean** — max 3–4 key elements.

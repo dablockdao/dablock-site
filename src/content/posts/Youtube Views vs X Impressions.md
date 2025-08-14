@@ -1,6 +1,6 @@
 ---
 title: Stop Comparing YouTube Views to X Impressions
-pubDate: 2025-08-14
+pubDate: 2025-08-12
 categories: ['thinktank']
 description: ''
 slug: youtube-views-x-impressions
@@ -13,6 +13,8 @@ If you’re creating (or curating) long-form videos, here’s a truth bomb:
 **500 YouTube views ≠ 500 X impressions.**
 
 In fact, they’re measuring completely different things. And if you’ve been using those numbers interchangeably, you might be undervaluing the real impact of your YouTube content. Let’s break it down.
+
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">For long-form creators (&amp; curators) 🤫<br><br>‼️ 500 YouTube views ≠ 500 X impressions.<br><br>- If organic, they came from 3K–15K impressions (CTR).<br><br>- YT consistently delivers more watch time (= real impact) than X.<br><br>Is your effort worth it? Let&#39;s dive in 👇<br>If you’re just starting with… <a href="https://t.co/9gocL3nslL">pic.twitter.com/9gocL3nslL</a></p>&mdash; LV (@LVweb3) <a href="https://twitter.com/LVweb3/status/1955603806190022774?ref_src=twsrc%5Etfw">August 13, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
